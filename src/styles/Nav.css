@@ -1,0 +1,28 @@
+
+
+.header{
+    color: rgb(173, 69, 69);
+    padding: 0.3%;
+    font-size: 120%;
+    background-color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header nav{
+    display: flex;
+    justify-content: flex-end;
+    padding-left:10%;
+    padding-right:10%; 
+}
+
+.link{
+    text-decoration: none;
+    letter-spacing: 3px;
+    padding-right:10%; 
+    color: white;
+}
+
+
+.link:hover{
+    color: thistle;
+}

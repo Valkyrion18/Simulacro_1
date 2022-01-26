@@ -1,0 +1,49 @@
+
+#formulario{
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 3%;
+    margin-left: 30%;
+    border: 1px solid tomato;
+    margin-top: 5%;
+}
+
+#formulario h2{
+    text-align: center;
+    color: rgb(173, 69, 69);;
+}
+
+.btnSubmit{
+   color: rgb(173, 69, 69);
+   background-color: white;
+   border: 1px solid tomato;
+   font-size: 100%;
+   margin-top: 5%;
+   margin-left: 40%;
+}
+
+.btnSubmit:hover{
+    cursor: pointer;
+    background: orange;
+    display: flex;
+    text-align: center;
+    width: 60px;
+    height: 25px;
+}
+
+
+input{
+   margin-bottom: 10px;
+   margin-left: 10px;
+}
+
+select{
+    margin-bottom: 10px;
+}
+
+.descripcion-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3%;
+}

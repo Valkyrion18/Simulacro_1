@@ -1,0 +1,33 @@
+
+.titulo{
+    margin-top: 3%;
+    text-align: center;
+}
+
+.tabla{
+    color: black;
+    width: 100%;
+    align-content: center;
+    text-align: center; 
+    margin-top: 5%;
+    padding-right: 2%;
+}
+
+.tabla-header{
+    font-size: 22px;
+}
+
+.btnDelete:hover{
+    cursor: pointer;
+    background: orange;
+    display: flex;
+    width: 60px;
+    height: 30px;
+
+}
+
+.elemento{
+    background-color: cadetblue;
+    border: 1px solid rgb(173, 69, 69);
+    margin-bottom: 30px;
+}
